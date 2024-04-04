@@ -1,0 +1,52 @@
+    <title>Testing Project</title>
+</head>
+<body>
+    <h1>Testing Project</h1>
+    <p>20.03.2024</p>
+    <p>Catrinoiu Gabriela Simona</p>
+
+    <h2>Table of Contents</h2>
+    <ol>
+        <li><a href="#introduction">Introduction</a>
+            <ol>
+                <li>Project objective.</li>
+                <li>Functionalities in scope.</li>
+                <li>Functionalities and tests out of scope.</li>
+            </ol>
+        </li>
+        <li><a href="#test_process">Test Process</a>
+            <ol>
+                <li>Test planning.</li>
+                <li>Test analysis.</li>
+                <li>Test design.</li>
+                <li>Test implementation.</li>
+                <li>Test execution.</li>
+                <li>Test closure.</li>
+                <li>Test monitoring and control.</li>
+            </ol>
+        </li>
+        <li><a href="#test_deliverables">Test Deliverables</a></li>
+    </ol>
+
+    <h2 id="introduction">Introduction</h2>
+    <ol>
+        <li>Project objective.</li>
+        <li>Functionalities in scope.</li>
+        <li>Functionalities and tests out of scope.</li>
+    </ol>
+
+    <h2 id="test_process">Test Process</h2>
+    <ol>
+        <li>Test planning.</li>
+        <li>Test analysis.</li>
+        <li>Test design.</li>
+        <li>Test implementation.</li>
+        <li>Test execution.</li>
+        <li>Test closure.</li>
+        <li>Test monitoring and control.</li>
+    </ol>
+
+    <h2 id="test_deliverables">Test Deliverables</h2>
+
+</body>
+</html>
